@@ -1,21 +1,5 @@
-# Ferio
+## 👋 Hello!
 
-```
-$ run ferio
-running...
-ferio is running!
-ferio: Hello!
+😀 Hi i'm Ferio
 
-
-
-
-
-
-
-
-
-
-
-
-
-```
+> Boring day :/
